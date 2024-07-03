@@ -1,5 +1,8 @@
 # AlphaFold2-RAVE v 1.0
 
+## Toolset to run reduced MSA AF2 can be found here ->[rMSA AF2](https://colab.research.google.com/github/tiwarylab/alphafold2rave/blob/main/rMSA_AF2_no_templates_no_relax.ipynb)
+This notebook modifies [colabfold](https://github.com/sokrypton/ColabFold) notebook to implement reduced MSA AF2
+
 ## Demonstrative colab notebook can be found here -> [Complete run through on CSP system](https://colab.research.google.com/github/tiwarylab/alphafold2rave/blob/main/fullrunthrough_CSP.ipynb)
 This notebook aims to show how efficient our method is in predicting an effective RC (SPIB) from the amino acid sequence of a protein of interest(CSP), that can then be used in enhanced sampling to obtain Boltzmann ranked conformations.
 
